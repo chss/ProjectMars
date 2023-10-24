@@ -1,2 +1,3 @@
 print("Manish")
-print("J")
+print("Ja")
+
