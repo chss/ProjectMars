@@ -1,2 +1,2 @@
-Print("second")
-Print("first")
+print("second")
+print("first")
